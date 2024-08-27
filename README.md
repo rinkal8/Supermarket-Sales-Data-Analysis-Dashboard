@@ -1,16 +1,13 @@
 # Supermarket Sales Data Analysis Dashboard 📊💼 (Interactive Dashboard using MS Excel)
+![SM Sales Data Analysis Dashboard](https://github.com/rinkal8/Supermarket-Sales-Data-Analysis-Dashboard/blob/main/Super%20Market%20Sales%20Dashboard.png)
 
 ## Objective
 The objective of this project is to create an interactive and visually appealing sales data analysis dashboard in Microsoft Excel. The dashboard showcases key performance indicators (KPIs) and provides actionable insights derived from supermarket sales data. It aims to help stakeholders understand sales performance, identify trends, and uncover opportunities for growth and improvement. 
-
-## Dataset used
-- <a href="https://github.com/rinkal8/BreadcrumbsSupermarket-Sales-Data-Analysis-Dashboard/blob/main/Sales%20Dashboard%20Practice%20File.xlsx">Sales Dashboard Practice file</a>
 
 ## Key Performance Indicators (KPIs)
 1. **Total Sales:** - The aggregate revenue generated over a specified period.
 2. **Total Profit:** - The overall profit achieved by subtracting costs from total sales.
 3. **Profit Percentage:** - The ratio of profit to total sales, expressed as a percentage, to gauge profitability.  
-
 
 ## Process Design For Visuals 
 1. **Data Collection:** - Gather and organize sales data, including details on sales types (Direct sale, Online sale, Wholesale), payment modes (Cash, Online), and categories of products.
@@ -38,9 +35,6 @@ The objective of this project is to create an interactive and visually appealing
 5. **Dynamic Ranges:**
    
     * **OFFSET Function:** - Used to create dynamic ranges for the filled area charts, allowing for seamless updates as data changes.  
-
-## Dashboard
-![SM Sales Data Analysis Dashboard](https://github.com/rinkal8/Supermarket-Sales-Data-Analysis-Dashboard/blob/main/Super%20Market%20Sales%20Dashboard.png)
 
 
 ## Project Insights
