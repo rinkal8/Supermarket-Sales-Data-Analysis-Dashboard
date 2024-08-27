@@ -18,16 +18,18 @@ The objective of this project is to create an interactive and visually appealing
 * **DAY, MONTH, and YEAR:** - To extract date components for time-based analysis.
   
 3. **Dashboard Design:**
+   
     * **Monthly Sales, Profit, and Profit Percentages:** - Displayed using stacked column charts to show performance trends over time.
     * **Day-wise Revenue:** - Visualized with a dynamically filled area chart to highlight daily sales fluctuations.
     * **Sales Share:** - Represented through pie charts to illustrate the distribution of sales by type and payment mode.
     * **Tree Map:** - A comprehensive view showing the contribution of different product categories.
     * **Tags:** - Highlight top-performing products and categories based on sales.
-4. **Interactive Features:**
+      
+5. **Interactive Features:**
     * **Slicers:** - Include the interactive year, month, sales type and payment mode slicers for dynamic data exploration.
     * **Scroll Bar:** - Implemented for scrolling through product-wise revenue data.
     * **Checkboxes:** - Incorporated for filtering data based on user selections such as sales, profit or profit percentage.
-5. **Dynamic Ranges:**
+6. **Dynamic Ranges:**
     * **OFFSET Function:** - Used to create dynamic ranges for the filled area charts, allowing for seamless updates as data changes.  
 
 ## Project Insights
