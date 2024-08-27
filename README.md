@@ -19,7 +19,7 @@ The objective of this project is to create an interactive and visually appealing
   
 3. **Dashboard Design:**
    
-  * **Monthly Sales, Profit, and Profit Percentages:** - Displayed using stacked column charts to show performance trends over time.
+   * **Monthly Sales, Profit, and Profit Percentages:** - Displayed using stacked column charts to show performance trends over time.
     * **Day-wise Revenue:** - Visualized with a dynamically filled area chart to highlight daily sales fluctuations.
     * **Sales Share:** - Represented through pie charts to illustrate the distribution of sales by type and payment mode.
     * **Tree Map:** - A comprehensive view showing the contribution of different product categories.
