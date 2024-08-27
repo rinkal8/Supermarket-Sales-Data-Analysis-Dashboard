@@ -10,7 +10,7 @@ The objective of this project is to create an interactive and visually appealing
 3. **Profit Percentage:** - The ratio of profit to total sales, expressed as a percentage, to gauge profitability.  
 
 ## Process
-1. **Data Collection:** - Gather and organize sales data, including details on sales types (Direct sale, Online sale, Wholesale), payment modes (Cash, Online), and categories of products.  
+'''1. **Data Collection:** - Gather and organize sales data, including details on sales types (Direct sale, Online sale, Wholesale), payment modes (Cash, Online), and categories of products.'''
 2. **Data Preparation:** - Use Excel functions to clean and prepare data for analysis. Key functions include:
 * **VLOOKUP:**- To retrieve specific details for dashboard components.
 * **MULTIPLICATION and SUBTRACTION:** - For calculating total profit and profit percentages.
